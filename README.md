@@ -9,7 +9,7 @@ Follow under steps.
 
 ### Step 1: Clone the repository or extract the ZIP file.
 ```sh
-git clone https://github.com/your-repo/todo-list-laravel.git
+git clone https://github.com/praneeth724/Algorithm-Challenge.git
 
 ```
 
